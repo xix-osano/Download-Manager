@@ -3,4 +3,36 @@
 
 #!! ERROR: python3 is undefined. Use list command to see defined gitignore types !!#
 
+### venv ###
+# Python virtual environment
+venv/
+venv.bak/
+venv.bak/
+venv3/
+venv3.bak/
+venv3.bak/
+venv3.10/
+venv3.10.bak/
+venv3.11/
+venv3.11.bak/
+venv3.12/
+venv3.12.bak/
+venv3.13/
+venv3.13.bak/
+venv3.14/
+venv3.14.bak/
+venv3.15/
+venv3.15.bak/
+venv3.16/
+venv3.16.bak/
+venv3.17/
+venv3.17.bak/
+venv3.18/
+venv3.18.bak/
+venv3.19/
+venv3.19.bak/
+venv3.20/
+venv3.20.bak/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python3
